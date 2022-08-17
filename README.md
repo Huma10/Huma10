@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Huma10
 - 👀 I’m interested in Application Development 
 - 🌱 I’m currently working on Spring Framework
-- 💞️ I’m looking to collaborate on Spring Boot Project
 - Writing Technical Articles on JAVA | SPRING | SPRING BOOT | HIBERNATE | JPA
 
 <!---
